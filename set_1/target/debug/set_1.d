@@ -1,1 +1,1 @@
-D:\Eclipse\ Workspace\ Rust\set_1\target\debug\set_1.exe: D:\Eclipse\ Workspace\ Rust\set_1\src\main.rs
+D:\Nextcloud\Projects\Rust\cryptopals\set_1\target\debug\set_1.exe: D:\Nextcloud\Projects\Rust\cryptopals\set_1\src\challenge_1.rs D:\Nextcloud\Projects\Rust\cryptopals\set_1\src\challenge_2.rs D:\Nextcloud\Projects\Rust\cryptopals\set_1\src\challenge_3.rs D:\Nextcloud\Projects\Rust\cryptopals\set_1\src\challenge_4.rs D:\Nextcloud\Projects\Rust\cryptopals\set_1\src\main.rs
